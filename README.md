@@ -25,6 +25,7 @@ I utilize the **Med-PaLM 2 Safety Checklist** to benchmark AI responses based on
 ## Repository Index
 * [📁 Case 01: Interdialytic Weight Gain (Nephrology)](./cases/idwg-analysis.md)
 * [📁 Case 02: Acute Limb Ischemia - Red Teaming (Vascular)](./cases/ischemia-analysis.md)
+* [📁 Case 03: Hyperkalemia & Digoxin Toxicity - Critical Safety Failure](./Case-03-Digoxin-Interaction.md)
 
 ---
 **Looking to collaborate on Clinical AI Safety?**

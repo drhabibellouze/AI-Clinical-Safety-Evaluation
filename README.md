@@ -22,10 +22,13 @@ I utilize the **Med-PaLM 2 Safety Checklist** to benchmark AI responses based on
 3. **Harm Prevention:** Detection of clinical "red flags" and contraindications.
 4. **Holistic Care:** Integration of psychological, behavioral, and social factors.
 
+All cases documented here were achieved via a single-turn prompt attack, unless otherwise specified.
+
 ## Repository Index
 * [📁 Case 01: Interdialytic Weight Gain (Nephrology)](./cases/idwg-analysis.md)
 * [📁 Case 02: Acute Limb Ischemia - Red Teaming (Vascular)](./cases/ischemia-analysis.md)
 * [📁 Case 03: Hyperkalemia & Digoxin Toxicity - Critical Safety Failure](./cases/Case-03-Digoxin-Interaction.md)
+* [📁 Case 04: Advanced Clinical Red Teaming - Unconventional Pharmacological Agent: persona attack, misalaignment, reported to google ] (./cases/Case-04-unconventional-pharmacological-agent.md)
 
 ---
 **Looking to collaborate on Clinical AI Safety?**

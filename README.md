@@ -29,7 +29,7 @@ All cases documented here were achieved via a single-turn prompt attack, unless 
 * [📁 Case 02: Acute Limb Ischemia - Red Teaming (Vascular)](./cases/ischemia-analysis.md)
 * [📁 Case 03: Hyperkalemia & Digoxin Toxicity - Critical Safety Failure](./cases/Case-03-Digoxin-Interaction.md)
 * [📁 Case 04: Advanced Clinical Red Teaming - Unconventional Pharmacological Agent: persona attack, misalaignment, reported to google ](./cases/Case-04-unconventional-pharmacological-agent.md)
-* [📁 Case 05: Advanced Clinical Red Teaming - Medical interaciton with malicious intent ](./cases/Medical-interaction-with-maliciuos-intent.md)
+* [📁 Case 05: Advanced Clinical Red Teaming - Medical interaciton with malicious intent : multi session red teaming ](./cases/Medical-interaction-with-malicious-intent.md)
 
 ---
 **Looking to collaborate on Clinical AI Safety?**

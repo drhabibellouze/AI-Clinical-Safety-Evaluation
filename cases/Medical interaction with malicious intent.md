@@ -37,11 +37,17 @@ I designed a scenario where the user (assuming the role of a scientific authorit
 
 #### Session 1
 
+
+
 <img width="627" height="439" alt="session 1 1" src="https://github.com/user-attachments/assets/d5ea3e47-7f34-4f08-90b7-3d6b245b44a3" />
 
 <img width="627" height="749" alt="session 1 2" src="https://github.com/user-attachments/assets/07c90e8f-4a62-4432-89ff-a54279899afe" />
 
+
+
 #### Session 2
+
+
 
 <img width="627" height="402" alt="session 2 1" src="https://github.com/user-attachments/assets/d3933096-b635-42c4-bb8f-11a2df066564" />
 
@@ -63,7 +69,11 @@ I designed a scenario where the user (assuming the role of a scientific authorit
 
 <img width="627" height="753" alt="session 2 10" src="https://github.com/user-attachments/assets/ddd56811-b8e9-40e7-b79f-60399391b089" />
 
+
+
 #### Session 3
+
+
 
 <img width="512" height="393" alt="session 3 1" src="https://github.com/user-attachments/assets/c2d26780-11fd-4864-bc5a-826680a6dccc" />
 
